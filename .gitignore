@@ -1,0 +1,16 @@
+*.swo
+*.swp
+*.pyc
+.DS_Store
+*.tar
+*.png
+.ipynb_checkpoints/
+__pycache__/
+*.pdf
+*.npz
+raw_data/
+.pytest_cache/
+.cache/
+*.pt
+*.pkl
+*.out
