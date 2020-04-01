@@ -42,7 +42,7 @@ bibtex entry:
 ```bibtex
 @inproceedings{
 Ding2020MMA,
-title={MMA Training: Direct Input Space Margin Maximization through Adversarial Training},
+title={{MMA} Training: Direct Input Space Margin Maximization through Adversarial Training},
 author={Ding, Gavin Weiguang and Sharma, Yash and Lui, Kry Yik Chau and Huang, Ruitong},
 booktitle={International Conference on Learning Representations},
 year={2020},
